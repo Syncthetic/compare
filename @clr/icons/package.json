@@ -1,36 +1,39 @@
 {
-  "_from": "@clr/icons@^1.0.3-patch",
-  "_id": "@clr/icons@1.0.3-patch",
+  "_args": [
+    [
+      "@clr/icons@1.0.3",
+      "/home/bess/Desktop/projects/ElectronAutoUpdateClient"
+    ]
+  ],
+  "_from": "@clr/icons@1.0.3",
+  "_id": "@clr/icons@1.0.3",
   "_inBundle": false,
-  "_integrity": "sha512-SJiQW7IPZg0ztjE6bl2KA7PFJRQtYvHtpfk9+/Wv6RRkJVWiSnNHOxYPeOhWwzdpiEHzqwZTLrosptpJFlKFwg==",
+  "_integrity": "sha512-WeMpqnSJU0xyS9Ef7HyZkc0Y+ApgC1Y5pdVS4Pm98jzBylsc6vKZHLoSR+8brG7+nwoYlYuRq0Wo8hYVnIfQAg==",
   "_location": "/@clr/icons",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "@clr/icons@^1.0.3-patch",
+    "raw": "@clr/icons@1.0.3",
     "name": "@clr/icons",
     "escapedName": "@clr%2ficons",
     "scope": "@clr",
-    "rawSpec": "^1.0.3-patch",
+    "rawSpec": "1.0.3",
     "saveSpec": null,
-    "fetchSpec": "^1.0.3-patch"
+    "fetchSpec": "1.0.3"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@clr/icons/-/icons-1.0.3-patch.tgz",
-  "_shasum": "b83e8b2ae4f9fcd939ef5ffbe093ba6a0209d78b",
-  "_spec": "@clr/icons@^1.0.3-patch",
-  "_where": "C:\\Users\\bessjust\\Desktop\\projects\\stars",
+  "_resolved": "https://registry.npmjs.org/@clr/icons/-/icons-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/home/bess/Desktop/projects/ElectronAutoUpdateClient",
   "author": {
     "name": "clarity"
   },
   "bugs": {
     "url": "https://github.com/vmware/clarity/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "Custom Element Icons for Clarity",
   "homepage": "https://vmware.github.io/clarity/",
   "license": "MIT",
@@ -44,5 +47,5 @@
     "url": "ssh://git@git.eng.vmware.com/clarity.git"
   },
   "types": "index.d.ts",
-  "version": "1.0.3-patch"
+  "version": "1.0.3"
 }

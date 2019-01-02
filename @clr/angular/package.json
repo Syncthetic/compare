@@ -1,40 +1,42 @@
 {
-  "_from": "@clr/angular",
-  "_id": "@clr/angular@1.0.3-patch",
+  "_args": [
+    [
+      "@clr/angular@1.0.3",
+      "/home/bess/Desktop/projects/ElectronAutoUpdateClient"
+    ]
+  ],
+  "_from": "@clr/angular@1.0.3",
+  "_id": "@clr/angular@1.0.3",
   "_inBundle": false,
-  "_integrity": "sha512-gZ5pSJuL8zYSHd0yPqDfdnzYbJJeZP0IL+vDuyME4UltAmRBwcdSWogCYvIAy/45LUKLsc4VlpG+9z4ZD3snjQ==",
+  "_integrity": "sha512-TD8rYZX2WCx1W5Foz2bp5DStFT/c+0EzqqhbACcDgNS5yKwcFhLoHdlsW4UDgXO+BZbLBJ4qm8h1HxH5ErZTRg==",
   "_location": "/@clr/angular",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "@clr/angular",
+    "raw": "@clr/angular@1.0.3",
     "name": "@clr/angular",
     "escapedName": "@clr%2fangular",
     "scope": "@clr",
-    "rawSpec": "",
+    "rawSpec": "1.0.3",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "1.0.3"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@clr/angular/-/angular-1.0.3-patch.tgz",
-  "_shasum": "31dc8fc8ddd9cf00c79ca4e011b6b90883cc61d0",
-  "_spec": "@clr/angular",
-  "_where": "C:\\Users\\bessjust\\Desktop\\projects\\stars",
+  "_resolved": "https://registry.npmjs.org/@clr/angular/-/angular-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/home/bess/Desktop/projects/ElectronAutoUpdateClient",
   "author": {
     "name": "clarity"
   },
   "bugs": {
     "url": "https://github.com/vmware/clarity/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "tslib": "^1.9.0"
   },
-  "deprecated": false,
   "description": "Angular components for Clarity",
   "es2015": "fesm2015/clr-angular.js",
   "esm2015": "esm2015/clr-angular.js",
@@ -68,7 +70,7 @@
     "@angular/forms": "^7.0.0",
     "@angular/platform-browser": "^7.0.0",
     "@angular/platform-browser-dynamic": "^7.0.0",
-    "@clr/ui": "1.0.3-patch"
+    "@clr/ui": "1.0.3"
   },
   "repository": {
     "type": "git",
@@ -77,5 +79,5 @@
   "schematics": "./schematics/collection.json",
   "sideEffects": false,
   "typings": "clr-angular.d.ts",
-  "version": "1.0.3-patch"
+  "version": "1.0.3"
 }
